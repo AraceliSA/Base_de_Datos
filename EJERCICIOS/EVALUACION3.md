@@ -15,6 +15,8 @@ Ejercicio:
 
 
 3. Realiza un diseño del modelo copo de nieve (valor 2)
+![image](https://user-images.githubusercontent.com/104279876/172779312-d8312ddc-0c04-495a-8323-5a6a5a631312.png)
+
 
 
 ## Práctica 7
