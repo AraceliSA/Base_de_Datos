@@ -67,28 +67,9 @@ Tienda de informática
 ![image](https://user-images.githubusercontent.com/91554777/170415101-717bca19-3644-46a9-8a57-8d5940c5d283.png)
 
 
-# CREATE DATABASE Tienda_informatica; 
-USE Tienda_informatica;
+# ![image](https://user-images.githubusercontent.com/104279876/172999404-f87b2b76-10ff-4014-b2a2-da373824e4a9.png)
 
 
-CREATE TABLE TIENDA(
-  CODIGO VARCHAR(100) NOT NULL PRIMARY KEY,
-  PRODUCTO VARCHAR(100) NOT NULL,
-  PRECIO FLOAT NOT NULL,
-  FABRICANTE VARCHAR(100) NOT NULL
- );
- 
- INSERT INTO TIENDA VALUES ('DD-23', 'Disco duro SATA 3 1TB', 86.99, 'SEAGATE');
- INSERT INTO TIENDA VALUES ('MM-34', 'Memoria RAM DDR4 8GB', 120.6, 'CRUCIAL');
- INSERT INTO TIENDA VALUES ('DD-98','Disco SSD 1 TB',  150.99, 'SAMNSUNG');
- INSERT INTO TIENDA VALUES ('MM-98', ' GeForce GTX 1050Ti', 185.7, 'GIGABYTE');
- INSERT INTO TIENDA VALUES ('MM-23', 'GeForce GTX 1080 Xtreme', 755.6, 'CRUCIAL');
- INSERT INTO TIENDA VALUES ('MT-12','Monitor 24 LED Full HD', 202.1, 'ASUS');
- INSERT INTO TIENDA VALUES ('MT-08', 'Monito 27 LED Full HD', 245.99, 'ASUS');
- INSERT INTO TIENDA VALUES ('LP-19',  'Portátil Yoga 520', 559.2,'LENOVO');
- INSERT INTO TIENDA VALUES ('LP-11', 'Portátil Ideapd 320', 444.2, 'LENOVO');
- INSERT INTO TIENDA VALUES ('IM-56', 'Impresora HP Deskjet 3720', 59.993, 'HP');
- INSERT INTO TIENDA VALUES ('IP-54', 'Impresora HP Laserjet Pro M26nw', 180.3, 'HP')
 
 # https://www.db-fiddle.com/f/efthPwfrDyhSbLHyMXZWVi/0
 
