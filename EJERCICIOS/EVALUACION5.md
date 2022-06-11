@@ -10,6 +10,7 @@ Lista el nombre de todos los productos que hay en la tabla producto.
 1. Lista los nombres y los precios de todos los productos de la tabla producto.
 
 2. Lista todas las columnas de la tabla producto.
+# ![image](https://user-images.githubusercontent.com/104279876/173172451-4aafeaec-7586-4078-8a28-173589c6e071.png)
 
 
 3. Devuelve una lista con el nombre del producto, precio y nombre de fabricante de
