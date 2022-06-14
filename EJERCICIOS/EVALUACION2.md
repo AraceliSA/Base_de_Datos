@@ -72,6 +72,7 @@ Tienda de informática
 
 
 # https://www.db-fiddle.com/f/efthPwfrDyhSbLHyMXZWVi/0
+# https://www.db-fiddle.com/f/efthPwfrDyhSbLHyMXZWVi/2
 # ![image](https://user-images.githubusercontent.com/104279876/173172002-40e29ef4-a869-4b9c-b900-317ba28c24c2.png)
 
 Modelo entidad/relación
