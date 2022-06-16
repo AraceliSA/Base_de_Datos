@@ -46,3 +46,4 @@ medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4
 
 
 #https://www.db-fiddle.com/f/oeFgjLVdMd1v926Qecc7Uv/0
+https://www.db-fiddle.com/f/efthPwfrDyhSbLHyMXZWVi/3
